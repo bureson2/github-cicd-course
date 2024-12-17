@@ -1,5 +1,5 @@
 def square_area(a: int) -> int:
-    """Counts an area of of square."""
+    """Counts an area of of square. update"""
     return a*a
 
 def fib(n: int) -> int:
